@@ -23,6 +23,7 @@
     "url": "https://github.com/phabloraylan/convert-money-to-float/issues"
   },
   "homepage": "https://github.com/phabloraylan/convert-money-to-float#readme",
+  "private": false,
   "devDependencies": {
     "chai": "^4.2.0",
     "mocha": "^6.2.2"
