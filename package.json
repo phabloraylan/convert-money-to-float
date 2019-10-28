@@ -1,0 +1,30 @@
+{
+  "name": "convert-money-to-float",
+  "version": "1.0.0",
+  "description": "Convert money to float.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node node_modules/mocha/bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phabloraylan/convert-money-to-float.git"
+  },
+  "keywords": [
+    "node",
+    "javascript",
+    "convert",
+    "money",
+    "float"
+  ],
+  "author": "Phablo Raylan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/phabloraylan/convert-money-to-float/issues"
+  },
+  "homepage": "https://github.com/phabloraylan/convert-money-to-float#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.2"
+  }
+}
