@@ -3,9 +3,14 @@ Convert money to float.
 
 ## Install
 
-
 ```sh
 npm install convert-money-to-float
+```
+
+## Testing
+
+```sh
+npm run test
 ```
 
 ## Usage
